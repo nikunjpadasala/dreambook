@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/book",
+      "prod_uri":"mysql://root:@localhost/book",
+      "fb_url":"https://www.facebook.com/darshandthummar",
+      "tw_url":"https://www.instagram.com/mr_dashu_thummar/?hl=en",
+      "gh_url": "https://vk.com/id509488516",
+      "blog_name": "Life",
+      "tag_line": "A Life About",
+      "gmail-user":"kathaswaminarayan1999@gmail.com",
+      "gmail-password":"sgagurukul@1999",
+      "about_text": "Hi my name is Dashu and I create Website and I am a good boy",
+      "no_of_posts": 4,
+      "login_image":"admin.png",
+      "admin_user":"dashu",
+      "admin_password":"dashudashu",
+      "upload_location":"D:\\Webdesign\\website\\static\\Upload Photos",
+      "by": "name = name"
+
+
+    }
+  }
+  
